@@ -3,7 +3,6 @@
 Eine Python-Anwendung zur logischen Verarbeitung von Zahlenbereichen. Das Programm demonstriert den Umgang mit Benutzereingaben, Typkonvertierung und Schleifensteuerung.
 
 ## Aufgabenstellung
-Entwickeln Sie ein Programm mit folgender Logik:
 1.  Einlesen von zwei beliebigen Zahlen.
 2.  Validierung: Sicherstellen, dass die Zahlen unterschiedlich sind (Wiederholung der Eingabe bei Gleichheit).
 3.  Logik: Automatische Erkennung, welcher Wert die Unter- und welcher die Obergrenze ist (beliebige Eingabereihenfolge).
